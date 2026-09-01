@@ -1,4 +1,4 @@
-# [📖 ACTIVITY1](test.md)
+# [📖 ACTIVITY1](activity1)
 
 
 # PROJECT-test
